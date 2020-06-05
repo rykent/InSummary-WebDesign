@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato');
+
 body {
 	margin: 0;
 	overflow: hidden;
@@ -37,10 +39,12 @@ body {
 	text-align: center;
 	margin: 0px;
 	padding-top: 50px;
+	font-family: 'Lato', sans-serif;
 }
 
 .main h1 {
 	font-size: 45px;
+	font-variant: small-caps;
 }
 
 .main p {
